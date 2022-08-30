@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18376" started-at="2022-08-30T21:03:40Z" finished-at="2022-08-30T21:03:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18376" started-at="2022-08-30T21:03:40Z" finished-at="2022-08-30T21:03:59Z">
+      <class name="com.runner.TestRunnerClass">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.runner.TestRunnerClass@2286778]" name="beforeClass" is-config="true" duration-ms="9421" started-at="2022-08-30T21:03:40Z" finished-at="2022-08-30T21:03:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="tc_001()[pri:1, instance:com.runner.TestRunnerClass@2286778]" name="tc_001" duration-ms="2913" started-at="2022-08-30T21:03:50Z" finished-at="2022-08-30T21:03:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001 -->
+        <test-method status="PASS" signature="tc_002()[pri:2, instance:com.runner.TestRunnerClass@2286778]" name="tc_002" duration-ms="2875" started-at="2022-08-30T21:03:53Z" finished-at="2022-08-30T21:03:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_002 -->
+        <test-method status="PASS" signature="tc_003()[pri:3, instance:com.runner.TestRunnerClass@2286778]" name="tc_003" duration-ms="2377" started-at="2022-08-30T21:03:56Z" finished-at="2022-08-30T21:03:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_003 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.runner.TestRunnerClass@2286778]" name="afterClass" is-config="true" duration-ms="756" started-at="2022-08-30T21:03:58Z" finished-at="2022-08-30T21:03:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.runner.TestRunnerClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
