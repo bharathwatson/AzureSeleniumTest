@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15576" started-at="2022-08-30T21:27:18Z" finished-at="2022-08-30T21:27:34Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="15576" started-at="2022-08-30T21:27:18Z" finished-at="2022-08-30T21:27:34Z">
+      <class name="com.runner.TestRunnerClass">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.runner.TestRunnerClass@53b32d7]" name="beforeClass" is-config="true" duration-ms="6513" started-at="2022-08-30T21:27:18Z" finished-at="2022-08-30T21:27:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="tc_001()[pri:1, instance:com.runner.TestRunnerClass@53b32d7]" name="tc_001" duration-ms="3146" started-at="2022-08-30T21:27:25Z" finished-at="2022-08-30T21:27:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001 -->
+        <test-method status="PASS" signature="tc_002()[pri:2, instance:com.runner.TestRunnerClass@53b32d7]" name="tc_002" duration-ms="2595" started-at="2022-08-30T21:27:28Z" finished-at="2022-08-30T21:27:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_002 -->
+        <test-method status="PASS" signature="tc_003()[pri:3, instance:com.runner.TestRunnerClass@53b32d7]" name="tc_003" duration-ms="2482" started-at="2022-08-30T21:27:31Z" finished-at="2022-08-30T21:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_003 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.runner.TestRunnerClass@53b32d7]" name="afterClass" is-config="true" duration-ms="806" started-at="2022-08-30T21:27:33Z" finished-at="2022-08-30T21:27:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.runner.TestRunnerClass -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
